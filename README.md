@@ -118,8 +118,7 @@ This project is open-source and available under the MIT License.
 
 ## Contact
 
-For any questions or suggestions, feel free to contact **Kyrylo Bielohryvtsev** at [your-email@example.com].
+For any questions or suggestions, feel free to contact **Kyrylo Bielohryvtsev** at [kyryloqa@gmail.com].
 
 ```
 
-You can adjust the **Contact** section and license information as needed. Additionally, if you want to add any diagrams or images, you can upload them to the repository and link them in the **README.md** file.
